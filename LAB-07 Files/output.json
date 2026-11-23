@@ -1,0 +1,255 @@
+{
+  "tokens": [
+    {
+      "token": "Elon",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "Musk",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "the",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "token": "CEO",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "token": "of",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "token": "Tesla",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "announced",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "token": "on",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "token": "Tuesday",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "that",
+      "pos": "SCONJ",
+      "tag": "IN"
+    },
+    {
+      "token": "SpaceX",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "will",
+      "pos": "AUX",
+      "tag": "MD"
+    },
+    {
+      "token": "launch",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "token": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "token": "Falcon",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "rocket",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "token": "from",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "token": "Texas",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "next",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "token": "month",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "token": "Investors",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "token": "in",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "token": "London",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "token": "Tokyo",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "reacted",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "token": "quickly",
+      "pos": "ADV",
+      "tag": "RB"
+    },
+    {
+      "token": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "token": "Tesla",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "token": "shares",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "token": "rose",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "token": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "token": "4",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "token": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    }
+  ],
+  "entities": [
+    {
+      "text": "Elon Musk",
+      "label": "PERSON",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Tesla",
+      "label": "ORG",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "Tuesday",
+      "label": "DATE",
+      "start": 42,
+      "end": 49
+    },
+    {
+      "text": "SpaceX",
+      "label": "PERSON",
+      "start": 55,
+      "end": 61
+    },
+    {
+      "text": "Falcon",
+      "label": "PRODUCT",
+      "start": 76,
+      "end": 82
+    },
+    {
+      "text": "Texas",
+      "label": "GPE",
+      "start": 95,
+      "end": 100
+    },
+    {
+      "text": "next month",
+      "label": "DATE",
+      "start": 101,
+      "end": 111
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start": 126,
+      "end": 132
+    },
+    {
+      "text": "Tokyo",
+      "label": "GPE",
+      "start": 137,
+      "end": 142
+    },
+    {
+      "text": "Tesla shares",
+      "label": "PRODUCT",
+      "start": 164,
+      "end": 176
+    },
+    {
+      "text": "4%",
+      "label": "PERCENT",
+      "start": 185,
+      "end": 187
+    }
+  ],
+  "pos_counts": {
+    "PROPN": 10,
+    "DET": 2,
+    "NOUN": 6,
+    "ADP": 5,
+    "VERB": 4,
+    "SCONJ": 1,
+    "AUX": 1,
+    "ADJ": 1,
+    "CCONJ": 2,
+    "ADV": 1,
+    "NUM": 1
+  }
+}
